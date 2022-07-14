@@ -2,7 +2,7 @@
 
 The Odin Project assignment. 
 
-A small restaurate website consisting of at least 3 pages.
+A small restaurant website consisting of at least 3 pages.
 
 Uses 'tab' browsing with Javascript changing the page content.
 
